@@ -1,6 +1,6 @@
 baseURL = 'https://logistc.github.io/'
 languageCode = 'en-us'
-title = 'logistc'
+title = 'Logistc'
 theme = "PaperMod"
 [taxonomies]
   tag = "tags"
