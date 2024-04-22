@@ -9,6 +9,12 @@ theme = "PaperMod"
 [menu]
 
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
