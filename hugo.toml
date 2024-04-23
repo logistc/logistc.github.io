@@ -2,6 +2,7 @@ baseURL = 'https://logistc.github.io/'
 languageCode = 'en-us'
 title = 'Logistc'
 theme = "PaperMod"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -43,4 +44,15 @@ theme = "PaperMod"
     name = "About"
     url = "/about/"
     weight = 60
-    
+
+[params.homeInfoParams]
+  Title = "👋 Welcome to Yinjie' Log"
+  Content = "👀 I’m interested in Machine Learning and Deep Learning. 🌱 I’m currently learning Deep Learning. 💞️ I’m looking to collaborate on Deep Learning."
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?hl=zh-CN&user=ZjIJxkAAAAAJ"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/logistc"
